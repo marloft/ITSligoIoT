@@ -12,7 +12,6 @@
   modified 19th Jan 2021 by Mary Loftus 
 
   This example code is in the public domain.
-
   http://www.arduino.cc/en/Tutorial/BlinkErrors
 */
 int LEDPin=2;
